@@ -1,0 +1,22 @@
+{
+    "name": "Pandoc + LibreOffice",
+    "build": {
+        "dockerfile": "Dockerfile",
+        "context": ".."
+    },
+    "customizations": {
+        "vscode": {
+            "settings": {
+                "terminal.integrated.shell.linux": "/bin/bash"
+            },
+            "extensions": [
+                "formulahendry.code-runner",
+                "mathematic.vscode-pdf",
+                "emeraldwalk.runonsave"
+            ]
+        }
+    },
+    "forwardPorts": [
+        8080
+    ]
+}
