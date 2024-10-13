@@ -6,4 +6,3 @@
 - Proficient in SQL, R, and Python for data analysis
 - Experienced in data visualization using Tableau and Google Data Studio
 - Strong skills in spreadsheet analysis and data cleaning techniques
-- Ability to derive actionable insights from large datasets
