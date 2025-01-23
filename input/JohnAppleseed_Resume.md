@@ -1,3 +1,8 @@
+---
+title: "JOHNATHAN APPLESEED"
+subtitle: "+1 123 456 7890 / john.appleseed@apple.com / Elm Street 45, 12345, Los Angeles, California"
+...
+
 ```{.include}
 input/resume/summary.md
 ```
